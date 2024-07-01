@@ -1,0 +1,146 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    height: 100%;
+    background-color: #888888;
+}
+/*          Navbar                 */
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #545454;
+    height: 100px;
+}
+.main_button{
+    display: flex;
+}
+.brand_logo{
+    width: 100px;
+    border-radius: 50%;
+}
+.cart{
+    width: 68px;
+    border-radius: 50%;
+    margin-left: -142px;
+    margin-top: 16px;
+}
+.brand{
+    width: 120px;
+}
+.address{
+    width: 40px;
+    margin-left: -61px;
+    text-align: center;
+    color: azure;
+}
+.search_box{
+    width: 700px;
+    display: flex;
+    justify-content: center;
+}
+.search{
+    width: 600px;
+    height: 50px;
+    margin-top: 22px;
+    margin-left: -145px;
+}
+.glass{
+    width:50px;
+    height: 53px;
+    margin-top: 22px;
+}
+.main_button{
+    width: 118px;
+    margin-left: -39px;
+    display: flex;
+    justify-content: center;
+}
+.account{
+    width: 99px;
+    margin-left: -112px;
+    height: 29px;
+    margin-top: 32px;
+    background-color: #FF711A;
+    border: none;
+    border-radius: 9%;
+}
+.help{
+    width: 99px;
+    margin-left: 6px;
+    height: 29px;
+    margin-top: 32px;
+    background-color: #FF711A;
+    border: none;
+    border-radius: 9%;
+}
+
+
+/*          Bottom Navbar                 */
+
+.offer,.phone,.app,.electronics,.makeup,.cloth,.sofa,.plane,.fruit{
+    border-radius: 50%;
+    width: 124px;
+    margin-top: 10px;
+}
+.offer{
+    width: 132px;
+}
+.bottom-navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: #6E6E6E;
+}
+.bottom-nav{
+    color: azure;
+    text-align: center;
+}
+#smart{
+    margin-top: 8px;
+}
+#top{
+    margin-top: 5px;
+}
+
+/*               Slider        */
+
+.slider{
+    position: relative;
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+.slider img{
+    width: 100%;
+    display: none;
+}
+img.displaySlide{
+    display: block;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+.slider button{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 2rem;
+    padding: 10px 15px;
+    background-color: hsla(0, 0%, 0%, 0.5);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.prev{
+    left: 0;
+}
+.next{
+    right: 0;
+}
+@keyframes fade {
+    from {opacity: .5}
+    to {opacity: 1}
+}
+.tele{
+    height: 500px;
+}

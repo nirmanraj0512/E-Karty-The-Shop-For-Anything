@@ -1,0 +1,6 @@
+color cOde 
+Darkest Shade- #545454
+Medium shade-#6E6E6E
+Lightest Shade- #888888
+Dark Orange-#FF711A
+Light Orange-#FF914D
