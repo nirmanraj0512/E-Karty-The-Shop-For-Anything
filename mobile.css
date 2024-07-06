@@ -114,7 +114,7 @@ body{
 }           
 .product{
     background-color: #EEEEEE;
-    width: 200px;
+    width: 210px;
     display: flex;
     flex-direction: row;
     align-items: center;
