@@ -114,13 +114,13 @@ body{
 }           
 .product{
     background-color: #EEEEEE;
-    width: 210px;
+    width: 200px;
     display: flex;
     flex-direction: row;
     align-items: center;
     text-align: center;
     border: #EEEEEE;
-    margin: 16px 28px 13px 23px;
+    margin: 18px 28px 13px 23px;
     flex-wrap: wrap;
 }
 .product_image img{
