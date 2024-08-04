@@ -5,7 +5,7 @@ Lightest Shade- #888888
 Dark Orange-#FF711A
 Light Orange-#FF914D
 
-
+Product bg-#EEEEEE
 https://www.schemecolor.com/web-designing-gray-colors.php
 
 
