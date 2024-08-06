@@ -113,13 +113,13 @@ body{
     
 }           
 .product{
-    background-color: #EEEEEE;
+    background-color: #f0aac7;
     width: 200px;
     display: flex;
     flex-direction: row;
     align-items: center;
     text-align: center;
-    border: #EEEEEE;
+    border: #f0aac7;
     margin: 18px 28px 13px 23px;
     flex-wrap: wrap;
 }
