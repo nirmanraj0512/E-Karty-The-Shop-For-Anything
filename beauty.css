@@ -4,13 +4,13 @@
 }
 body{
     height: 100%;
-    background-color: #888888;
+    background-color: #ee6ea0;
 }
 /*          Navbar                 */
 .navbar{
     display: flex;
     justify-content: space-between;
-    background-color: #545454;
+    background-color: #E94182;
     height: 100px;
 }
 .main_button{
@@ -87,9 +87,10 @@ body{
 .bottom-navbar{
     display: flex;
     justify-content: space-around;
-    background-color: #6E6E6E;
+    background-color: #E94182;
     text-decoration: none;
     height: 32px;
+    border: 1px solid azure;
 }
 .bottom-nav{
     color: azure;

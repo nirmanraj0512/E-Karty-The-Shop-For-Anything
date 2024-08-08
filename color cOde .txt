@@ -7,6 +7,18 @@ Light Orange-#FF914D
 
 Product bg-#EEEEEE
 https://www.schemecolor.com/web-designing-gray-colors.php
+Beauty Webpage
+Pink #f5aac7
+Background Pink #ee6ea0
+Navbar pink-#E94182
 
+
+
+///Mobile Page
+Product background color-#C0C0F5
+Background Color and Navbar -A6A6F1
+
+
+    
 
 

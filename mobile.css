@@ -4,13 +4,13 @@
 }
 body{
     height: 100%;
-    background-color: #888888;
+    background-color: #A6A6F1;
 }
 /*          Navbar                 */
 .navbar{
     display: flex;
     justify-content: space-between;
-    background-color: #545454;
+    background-color: #A6A6F1;
     height: 100px;
 }
 .main_button{
@@ -87,9 +87,10 @@ body{
 .bottom-navbar{
     display: flex;
     justify-content: space-around;
-    background-color: #6E6E6E;
+    background-color: #A6A6F1;
     text-decoration: none;
     height: 32px;
+    border: 1px solid azure;
 }
 .bottom-nav{
     color: azure;
@@ -113,13 +114,13 @@ body{
     
 }           
 .product{
-    background-color: #EEEEEE;
+    background-color: #C0C0F5;
     width: 200px;
     display: flex;
     flex-direction: row;
     align-items: center;
     text-align: center;
-    border: #EEEEEE;
+    border: #C0C0F5;
     margin: 18px 28px 13px 23px;
     flex-wrap: wrap;
 }
