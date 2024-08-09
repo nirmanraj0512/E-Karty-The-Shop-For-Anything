@@ -18,6 +18,11 @@ Navbar pink-#E94182
 Product background color-#C0C0F5
 Background Color and Navbar -A6A6F1
 
+//Electronic Page
+
+Banner color=#F8D396
+Background color-#FBE7C6
+Product background color-#fdf2df
 
     
 
