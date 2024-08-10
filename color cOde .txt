@@ -24,6 +24,12 @@ Banner color=#F8D396
 Background color-#FBE7C6
 Product background color-#fdf2df
 
+
+//Appliance Page
+Banner color-#1ECBE1
+Background color-#4BD5E7
+Product Background color -#91E6F0
+
     
 
 
