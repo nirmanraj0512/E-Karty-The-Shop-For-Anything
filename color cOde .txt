@@ -30,6 +30,11 @@ Banner color-#1ECBE1
 Background color-#4BD5E7
 Product Background color -#91E6F0
 
+//Fashion Page
+Banner Page-#082762
+Background Color-#105AC1
+Product Background Color-#69a2f3
+
     
 
 
