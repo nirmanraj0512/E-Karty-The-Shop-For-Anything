@@ -107,24 +107,28 @@ body{
 }
 .cateogry{
     display: flex;
-    justify-content: space-around;
     margin-top: 30px;
+    justify-content: space-around;
 
     
 }
 .men{
-    border: 5px,white,solid;
-    height: 100vh;
+    
+    height: 70vh;
+    margin-top: -4px;
 }
 .women{
-    border: 5px,white,solid;
-    height: 100vh;
+    
+    height: 70vh;
+    margin-top: -4px;
 }
 .men img {
-    height: 70vh;
+    border: 5px,white,solid;
+    height: 60vh;
     margin-left: 150px;
 }
 .women img {
-    height: 70vh;
+    border: 5px,white,solid;
+    height: 60vh;
     margin-right: 150px;
 }
