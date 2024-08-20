@@ -113,7 +113,8 @@ body{
     
 }
 .men{
-    
+    display: flex;
+    flex-direction: row;
     height: 70vh;
     margin-top: -4px;
 }
@@ -131,4 +132,10 @@ body{
     border: 5px,white,solid;
     height: 60vh;
     margin-right: 150px;
+}
+body {
+    background-image: url("/Files/Fashion/Background-removebg-preview.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
