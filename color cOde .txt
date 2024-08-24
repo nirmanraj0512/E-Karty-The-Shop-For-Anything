@@ -31,10 +31,16 @@ Background color-#4BD5E7
 Product Background color -#91E6F0
 
 //Fashion Page
+//Men Page
 Banner Page-#082762
 Background Color-#105AC1
 Product Background Color-#69a2f3
 
+//Female Page
+Background Color=#614D4A
+Product color=#7E6460
+banner color=#554341
+image background color-#c6a895
     
 
 
