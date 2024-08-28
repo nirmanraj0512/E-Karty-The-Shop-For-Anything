@@ -41,6 +41,12 @@ Background Color=#614D4A
 Product color=#7E6460
 banner color=#554341
 image background color-#c6a895
+
+//Furniture Page
+Background Color-#C1D8C3
+Product color-#FFF5E4
+Banner Color-#6A9C89
+image background color-#c6a895(Try IT then implement)
     
 
 
