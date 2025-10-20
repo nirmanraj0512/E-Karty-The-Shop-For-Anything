@@ -4,7 +4,7 @@
 }
 body{
     height: 100%;
-    background-color: #C1D8C3;
+    background-color: #547F6F;
 }
 /*          Navbar                 */
 .navbar{
@@ -115,7 +115,7 @@ body{
     
 }           
 .product{
-    background-color: #d20000;
+    background-color: #C1D8C3 ;
     width: 200px;
     display: flex;
     flex-direction: row;
